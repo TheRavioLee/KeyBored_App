@@ -131,7 +131,15 @@ namespace KeyBored_ReBinder
         {
             StringBuilder keymap = new StringBuilder();
 
-            keymap.Append("03");
+            switch(((System.Windows.Forms.Button)sender).Name)
+            {
+                case "buttonCopieFN":
+                    keymap.Append("03");
+                    break;
+                case "buttonCopieFN_3":
+                    keymap.Append("05");
+                    break;
+            }
 
             for (int i = 1; i <= 63; i++)
             {
@@ -167,8 +175,17 @@ namespace KeyBored_ReBinder
         private void buttonCopieAlt_Click(object sender, EventArgs e)
         {
             StringBuilder keymap = new StringBuilder();
+            
 
-            keymap.Append("04");
+            switch (((System.Windows.Forms.Button)sender).Name)
+            {
+                case "buttonCopieAlt":
+                    keymap.Append("04");
+                    break;
+                case "buttonCopieAlt_3":
+                    keymap.Append("06");
+                    break;
+            }
 
             for (int i = 65; i <= 127; i++)
             {

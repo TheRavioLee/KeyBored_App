@@ -125,8 +125,8 @@
             this.toolStripSeparator6 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripMenuItem28 = new System.Windows.Forms.ToolStripMenuItem();
             this.tableLayoutPanelCopie = new System.Windows.Forms.TableLayoutPanel();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.buttonCopieAlt_3 = new System.Windows.Forms.Button();
+            this.buttonCopieFN_3 = new System.Windows.Forms.Button();
             this.buttonCopieAlt = new System.Windows.Forms.Button();
             this.buttonCopieFN = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -1047,8 +1047,8 @@
             this.tableLayoutPanelCopie.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanelCopie.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanelCopie.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanelCopie.Controls.Add(this.button2, 3, 0);
-            this.tableLayoutPanelCopie.Controls.Add(this.button1, 2, 0);
+            this.tableLayoutPanelCopie.Controls.Add(this.buttonCopieAlt_3, 3, 0);
+            this.tableLayoutPanelCopie.Controls.Add(this.buttonCopieFN_3, 2, 0);
             this.tableLayoutPanelCopie.Controls.Add(this.buttonCopieAlt, 1, 0);
             this.tableLayoutPanelCopie.Controls.Add(this.buttonCopieFN, 0, 0);
             this.tableLayoutPanelCopie.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -1059,27 +1059,29 @@
             this.tableLayoutPanelCopie.Size = new System.Drawing.Size(1119, 44);
             this.tableLayoutPanelCopie.TabIndex = 12;
             // 
-            // button2
+            // buttonCopieAlt_3
             // 
-            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(840, 3);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(276, 38);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "Copier Layer FN + R_ALT (3)";
-            this.button2.UseVisualStyleBackColor = true;
+            this.buttonCopieAlt_3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonCopieAlt_3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonCopieAlt_3.Location = new System.Drawing.Point(840, 3);
+            this.buttonCopieAlt_3.Name = "buttonCopieAlt_3";
+            this.buttonCopieAlt_3.Size = new System.Drawing.Size(276, 38);
+            this.buttonCopieAlt_3.TabIndex = 14;
+            this.buttonCopieAlt_3.Text = "Copier Layer FN + R_ALT (3)";
+            this.buttonCopieAlt_3.UseVisualStyleBackColor = true;
+            this.buttonCopieAlt_3.Click += new System.EventHandler(this.buttonCopieAlt_Click);
             // 
-            // button1
+            // buttonCopieFN_3
             // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(561, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(273, 38);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Copier Layer FN (3)";
-            this.button1.UseVisualStyleBackColor = true;
+            this.buttonCopieFN_3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonCopieFN_3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonCopieFN_3.Location = new System.Drawing.Point(561, 3);
+            this.buttonCopieFN_3.Name = "buttonCopieFN_3";
+            this.buttonCopieFN_3.Size = new System.Drawing.Size(273, 38);
+            this.buttonCopieFN_3.TabIndex = 13;
+            this.buttonCopieFN_3.Text = "Copier Layer FN (3)";
+            this.buttonCopieFN_3.UseVisualStyleBackColor = true;
+            this.buttonCopieFN_3.Click += new System.EventHandler(this.buttonCopieFN_Click);
             // 
             // buttonCopieAlt
             // 
@@ -3456,8 +3458,8 @@
         private System.Windows.Forms.ToolStripMenuItem eSCToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator6;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem28;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonCopieAlt_3;
+        private System.Windows.Forms.Button buttonCopieFN_3;
         private System.Windows.Forms.Button buttonLink;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
