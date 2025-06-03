@@ -8,3 +8,16 @@ C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_App\KeyBored_ReBinder\obj\D
 C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.exe
 C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.pdb
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\bin\Debug\KeyBored_ReBinder.exe.config
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\bin\Debug\KeyBored_ReBinder.exe
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\bin\Debug\KeyBored_ReBinder.pdb
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.csproj.AssemblyReference.cache
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.Form1.resources
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.Properties.Resources.resources
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.csproj.GenerateResource.cache
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.exe
+C:\Users\Thomas\Source\Repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored_ReBinder.pdb
+C:\Users\Thomas\source\repos\KeyBored_App\KeyBored_ReBinder\bin\Debug\HidLibrary.dll
+C:\Users\Thomas\source\repos\KeyBored_App\KeyBored_ReBinder\bin\Debug\HidLibrary.pdb
+C:\Users\Thomas\source\repos\KeyBored_App\KeyBored_ReBinder\obj\Debug\KeyBored.49DE87D8.Up2Date
